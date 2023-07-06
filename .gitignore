@@ -1,0 +1,20 @@
+# Arquivos gerados pelo Node.js
+node_modules/
+package-lock.json
+
+# Variáveis de ambiente sensíveis
+.env
+.env.*
+
+# Logs e arquivos de debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências instaladas pelo Yarn
+.yarn/
+.yarnrc
+
+# Arquivos de build
+build/
+dist/
